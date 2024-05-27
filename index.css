@@ -1,3 +1,7 @@
+
+
+
+
 body {
     background-image: url("https://www.dominicamuslim.org/files/2019/08/sweetness-in-the-remembrance-dhikr-of-allah.jpeg");
     background-size: cover;
@@ -5,6 +9,13 @@ body {
     font-family: "Alegreya", serif;
     font-weight: 900;
     text-align: center;
+    height: 100vh;
+} 
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid transparent;
 }
 
 h1 {
@@ -18,6 +29,8 @@ h1 {
 
     font-weight: 600;
     font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -61,4 +74,3 @@ button:hover{
     text-align: left; 
     margin-left: 120px; 
 }
-
