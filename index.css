@@ -15,7 +15,9 @@ body {
 .container {
     max-width: 80%;
     margin: auto;
-    border: 3px solid transparent;
+    border: 5px solid black;
+    border-radius: 10%;
+    position: center;
 }
 
 h1 {
