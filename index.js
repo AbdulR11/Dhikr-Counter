@@ -19,14 +19,14 @@ function save()
 {
     if (saveCount == 0)
     {
-        fajrEl.textContent += count
+        fajrEl.innerText += " " + count
         countEl.textContent = 0
          resetCount()
     }
     
       else if (saveCount == 1)
     {
-        dhuhrEl.textContent += count
+        dhuhrEl.innerText += " " + count
         countEl.textContent = 0
          resetCount()
 
@@ -34,7 +34,7 @@ function save()
     
       else if (saveCount == 2)
     {
-        asrEl.textContent += count
+        asrEl.innerText += " " + count
         countEl.textContent = 0
          resetCount()
 
@@ -42,7 +42,7 @@ function save()
     
         else if (saveCount == 3)
     {
-        maghribEl.textContent += count
+        maghribEl.innerText += " " + count
         countEl.textContent = 0
          resetCount()
 
@@ -51,7 +51,7 @@ function save()
     
       else if (saveCount == 4)
     {
-        ishaEl.textContent += count
+        ishaEl.innerText += " " + count
         countEl.textContent = 0
         resetCount()
     }
