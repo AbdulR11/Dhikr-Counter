@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://www.dominicamuslim.org/files/2019/08/sweetness-in-the-remembrance-dhikr-of-allah.jpeg");
+    background-size: cover;
+    backdrop-filter: blur(5px);
+    font-family: "Alegreya", serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-style: bold;
+
+}
+
+.hadith {
+
+    font-weight: 600;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 3px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 4px whitesmoke;
+    transition: transform 0.2s ease-in-out;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
+#increment-btn {
+    background: #53473C;
+}
+
+#save-btn {
+    background: #867563;
+}
+
+#reset-btn {
+    background: #B2A690;
+}
+
+.prayers {
+    text-align: left; 
+    margin-left: 120px; 
+}
+
