@@ -1,4 +1,4 @@
-#Dhikr Counter Web App
+# Dhikr Counter Web App
 
 This project is a simple, interactive web application designed to help users keep track of their Dhikr (remembrance of Allah) counts for each of the five daily prayers: Fajr, Dhuhr, Asr, Maghrib, and Isha. The app provides a user-friendly interface with buttons to increment the count and save it under the corresponding prayer time.
 
