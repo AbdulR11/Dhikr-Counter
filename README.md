@@ -2,6 +2,8 @@
 
 This project is a simple, interactive web application designed to help users keep track of their Dhikr (remembrance of Allah) counts for each of the five daily prayers: Fajr, Dhuhr, Asr, Maghrib, and Isha. The app provides a user-friendly interface with buttons to increment the count and save it under the corresponding prayer time.
 
+Visit the site at https://dhikrcountersalah.netlify.app/
+
 Features:
 Increment Button: Users can click this button to increase the Dhikr count.
 Save Button: Saves the current count under the next prayer time in sequence.
